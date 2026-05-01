@@ -1,1 +1,1 @@
-These are codes for the Design and analysis of algorithms subject these codes are of 8 weeks .Each week comprises of 3 codes ,these codes are strictly written in c++ language and using the standard template library of c++.
+These are codes for the Design and analysis of algorithms subject these codes are of 8 weeks .Each week comprises of 3 codes ,these codes are strictly written in c++ language and using the standard template library of c++.Submitted by Rahul Singh Mehta .
